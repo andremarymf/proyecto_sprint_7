@@ -18,4 +18,8 @@ proyecto_7/
 ├── vehicles_us.csv
 └── notebooks/
     └── EDA.ipynb
+Local URL: http://localhost:8501
+Network URL: http://10.223.87.208:8501
+External URL: http://34.213.214.55:8501    
 ¡Gracias por revisar este proyecto!
+
